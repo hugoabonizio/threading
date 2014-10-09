@@ -1,1 +1,1 @@
-require File.dirname(__FILE__) + "/../lib/thread_tools"
+require File.dirname(__FILE__) + "/../lib/threading"
