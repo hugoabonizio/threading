@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'threading'
-  s.version     = '0.0.1'
+  s.version     = '0.0.11'
   s.date        = '2014-10-09'
   s.summary     = "Tools to concurrency in Ruby"
   s.description = "Some tools to make concurrency in Ruby, like thread pools"
